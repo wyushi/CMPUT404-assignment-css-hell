@@ -1,0 +1,52 @@
+@media (min-width: 568px) {
+  .container {
+    width: 550px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+body {
+	background: #888;
+}
+
+#work-space {
+	background: #eee;
+}
+
+header {
+	background: #ccc;
+}
+
+footer {
+	background: #ccc;
+}
+
+
+nav {
+	background: #ddd;
+}
+
+section {
+	background: #ddc;
+}
+
+#side-bar {
+	background: #ddd;
+}
+
+.about-me {
+	background: #cdd;
+}
+
+.activity {
+	margin-bottom: 1em;
+}
