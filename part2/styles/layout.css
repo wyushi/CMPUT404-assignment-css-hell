@@ -1,0 +1,151 @@
+@media (max-width: 767px) {
+  
+  #background {
+    display: none;
+  }
+  
+  #work-space {
+    margin-top: 0 !important;
+  }
+  
+  #side-bar-container {
+    padding: 0;
+    margin: 1em 0 0 0;
+  }
+}
+
+@media (max-width: 587px) {
+  .container {
+    width: 587px;
+  }
+}
+
+.media-body {
+  vertical-align: middle;
+}
+
+.media-left {
+  padding-right: 1em;
+}
+
+.media-right {
+  padding-left: 1em;
+}
+
+#background {
+  position: absolute;
+  top: 2em;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+  #background img {
+    width: 100%;
+    min-width: 1226px;
+    max-height: 30em;
+  }
+
+#work-space {
+  margin-top: 15em;
+  z-index: 1;
+}
+
+#profile > .thumnail {
+  padding-right: 3em;
+}
+  #profile > .thumnail > img {
+    width: 15em;
+    height: 15em;
+  }
+
+#content {
+  margin-top: 1em;
+}
+
+#stream > section {
+  padding: 0 1em 1em 1em;
+}
+  #stream .entry {
+    margin-bottom: 1.5em;
+  }
+    #stream .entry:last-child {
+      margin-bottom: 0;
+    }
+  #stream > section h3 {
+    padding: 0.8em 0em;
+    margin-bottom: 0.5em;
+  }
+  #stream > section h4 {
+    margin: 0 0 0.2em 0;
+  }
+  #project-container .fa {
+    margin-left: .3em;
+  }
+
+#side-bar-container {
+  padding-right: 0;
+}
+
+#side-bar {
+  padding: 1em;
+}
+  #side-bar section {
+    margin-bottom: 1em;
+  }
+    #side-bar section:last-child {
+      margin-bottom: 0;
+    }
+  #side-bar h3 {
+    padding: 0 0 .3em 0;
+    margin: 0 0 .2em 0;
+  }
+  #sns-container ul {
+    display: inline-block;
+    padding: 0 0.3em;
+  }
+    #sns-container .fa {
+      margin-right: 0.3em;
+    }
+  #skill-container ul {
+    padding: 0 0.3em;
+  }
+    #skill-container li {
+      display: inline-block;
+      padding: 0.2em 0.5em;
+      margin: 0 0.3em 0.5em 0;
+    }
+
+footer {
+  padding: .5em;
+  margin-top: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

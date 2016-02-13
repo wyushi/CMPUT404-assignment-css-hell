@@ -1,0 +1,59 @@
+body {
+  background: #333;
+}
+
+nav {
+  border-radius: 0 !important;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+  a:hover {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+
+#profile {
+  background: #eee;
+}
+
+#stream > section {
+  background: #eee;
+}
+  #stream > section h3 {
+    border-bottom: solid #aaa 1px;
+  }
+
+#side-bar {
+  background: #eee;  
+}
+  #side-bar h3 {
+    border-bottom: 1px solid #aaa;
+  }
+
+#sns-container a {
+  color: #069;
+}
+
+#skill-container li {
+  border: #bbb 1px solid;
+  border-radius: 0.25em;
+}
+  #skill-container li:hover {
+    color: #fff;
+    background: #2eb82e;
+    border-color: #2eb82e;
+  }
+
+footer {
+  text-align: right;
+  border-top: solid #aaa 1px;
+  color: #aaa;
+}
