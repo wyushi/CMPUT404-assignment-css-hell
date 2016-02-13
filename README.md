@@ -12,6 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Contributor
+=================
+
+Yushi Wang
+
+CSS Reset comes from http://meyerweb.com/eric/tools/css/reset/
+
+
 License/Copyright
 =================
 
@@ -21,6 +29,5 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-CSS Reset comes from http://meyerweb.com/eric/tools/css/reset/
 
 
