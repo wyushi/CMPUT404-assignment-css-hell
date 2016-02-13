@@ -1,1 +1,72 @@
-ugly.css
+body {
+  background: #b30000;
+}
+
+nav {
+  font-size: 1.5em;
+  border-radius: 0 !important;
+  background: #330000 !important;
+  border-color: #330000 !important;
+}
+  nav a {
+     color: #00e600 !important;
+  }
+
+a {
+  color: #00e600;
+  text-decoration: underline;
+}
+
+#profile {
+  color: #ff8000;
+  font-weight: bold;
+  background: #bf00ff;
+}
+  #profile a {
+    color: #0000e6;
+  }
+  #profile h3 {
+    color: #ffff00;
+    font-size: 3em !important;
+  }
+
+#stream > section {
+  color: #00e600;
+  background: #262626;
+}
+  #stream > section h3 {
+    font-size: 3em;
+    border-bottom: solid #00e600 1px;
+  }
+  #stream > section h4 {
+    font-size: 2em;
+  }
+
+#side-bar {
+  color: #00e600;
+  background: #262626;  
+}
+  #side-bar h3 {
+    border-bottom: 1px solid #00e600;
+  }
+
+#sns-container a {
+  font-size: 1.5em;
+  color: #ff33ff;
+}
+
+#skill-container li {
+  border: 1px solid;
+  border-radius: 0.25em;
+}
+  #skill-container li:hover {
+    color: #262626;
+    background: #00e600;
+    border-color: #00e600;
+  }
+
+footer {
+  text-align: right;
+  border-top: solid #00e600 1px;
+  color: #00e600;
+}
